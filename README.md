@@ -3,4 +3,4 @@ This example is about detecting the borders of any document and then capturing t
 
 
 
-![alt text](https://imgur.com/dpNwTl9)
+![alt text](http://dev.acquaintsoft.com/DocScanVideo.gif)
