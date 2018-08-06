@@ -4,4 +4,4 @@ This example is about detecting the borders of any document and then capturing t
 To run the example project, clone the repo, and run pod install from the Example directory first.
 
 
-![alt text](http://dev.acquaintsoft.com/DocScanVideo.gif)
+![alt text](http://dev.acquaintsoft.com/scanner.gif)
